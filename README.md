@@ -29,6 +29,4 @@ Follow the steps below to connect your workflow to Notion and start sending para
 
 Insert your integration token into your script:
 
-```
 NOTION_TOKEN = "your_token_here"
-```
